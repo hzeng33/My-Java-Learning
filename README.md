@@ -1,2 +1,2 @@
 # My-Java-Learning
-All about my learning journey of Java. 
+All about my Java learning
